@@ -10,11 +10,16 @@
 - **Oracle CPQ** implementation for a telecom. Currently learning Salesforce CPQ.
 
 ### 🚀 Building now
-- **[reeetail](https://reeetail.com)**: multi-store operations SaaS for Argentine retail: checklists, petty cash, sales vs. targets, HR. Svelte + PostgreSQL. · [Live demo](https://atlas.reeetail.com)
+- **[reeetail](https://reeetail.com)**: multi-store operations SaaS for Argentine retail: checklists, petty cash, sales vs. targets, HR. Svelte + PostgreSQL, with the API moving from Spring Boot to Bun + Hono.
 - **radio** *(working name)*: browser music toy with world internet radio, paintable skins and a groove box. Svelte 5 + TypeScript + Tone.js.
 
 ### 🧰 Stack
 `Java 17` · `Spring Boot` · `PostgreSQL` · `Svelte` · `TypeScript` · `Cloudflare`
+
+📚 Currently learning **Bun** (TypeScript runtime) to replace Java in my newer projects.
+
+### 🎧 Off the keyboard
+I'm really into music: that's why you'll find my Bandcamp linked here, and why I'm building a radio/music toy on the side.
 
 ### 🤝 Work with me
 Open to freelance / contract work as **tech lead, Java backend or full-stack** developer: integrations, payments/banking middleware, and getting MVPs to production.
